@@ -1,5 +1,5 @@
 {
-  "name": "claude-plugins",
+  "name": "dullfig-plugins",
   "owner": { "name": "dullfig" },
   "metadata": { "description": "Claude Code plugins by dullfig" },
   "plugins": [
