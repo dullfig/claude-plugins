@@ -7,7 +7,7 @@
       "name": "claude-rlm",
       "description": "Persistent project memory for Claude Code",
       "version": "0.2.0",
-      "source": { "source": "github", "repo": "dullfig/claude-rlm" }
+      "source": { "source": "url", "url": "https://github.com/dullfig/claude-rlm.git" }
     }
   ]
 }
