@@ -6,7 +6,7 @@ Claude Code plugin marketplace by dullfig.
 
 | Plugin | Description | License |
 |--------|-------------|---------|
-| [memory-rlm](https://github.com/dullfig/memory  -rlm) | Persistent project memory for Claude Code | BUSL-1.1 |
+| [memory-rlm](https://github.com/dullfig/memory-rlm) | Persistent project memory for Claude Code | BUSL-1.1 |
 
 ## Install
 
