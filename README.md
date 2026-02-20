@@ -7,6 +7,7 @@ Claude Code plugin marketplace by dullfig.
 | Plugin | Description | License |
 |--------|-------------|---------|
 | [memory-rlm](https://github.com/dullfig/memory-rlm) | Persistent project memory for Claude Code | BUSL-1.1 |
+| [origami](https://github.com/dullfig/origami) | Context folding - lossless variable-resolution compaction for Claude Code | MIT |
 
 ## Install
 
