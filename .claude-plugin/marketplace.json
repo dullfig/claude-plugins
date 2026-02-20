@@ -8,6 +8,13 @@
       "description": "Persistent project memory for Claude Code",
       "version": "0.2.0",
       "source": { "source": "url", "url": "https://github.com/dullfig/claude-rlm.git" }
+    },
+    {
+      "name": "origami",
+      "description": "Context folding - lossless variable-resolution compaction for Claude Code",
+      "version": "1.0.0",
+      "license": "MIT",
+      "source": { "source": "url", "url": "https://github.com/dullfig/origami.git" }
     }
   ]
 }
