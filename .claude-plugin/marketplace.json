@@ -4,7 +4,7 @@
   "metadata": { "description": "Claude Code plugins by dullfig" },
   "plugins": [
     {
-      "name": "claude-rlm",
+      "name": "memory-rlm",
       "description": "Persistent project memory for Claude Code",
       "version": "0.2.0",
       "source": { "source": "url", "url": "https://github.com/dullfig/claude-rlm.git" }
